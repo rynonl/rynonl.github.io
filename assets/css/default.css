@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'SouthernAire';
+  src: url('/assets/font/SouthernAire.ttf');
+}
+
+#header {
+  background-image: url('/assets/img/header-bg.jpg');
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-content {
+  text-align: center;
+}
+
+.header-content h1 {
+  color: #e4e4e4;
+  font-size: 38pt;
+  font-family: 'SouthernAire';
+}
+
+.header-content p {
+  color: #e4e4e4;
+}
