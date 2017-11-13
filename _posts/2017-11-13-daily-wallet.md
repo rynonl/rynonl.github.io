@@ -1,11 +1,12 @@
 ---
 layout: dailywallet
-title: DailyWallet
+title: Daily Wallet
 ---
 
-## DailyWallet
+## Daily Wallet
 ---
-Budgeting that makes sense. The easiest and fastest budgeting app available.
+##### Budgeting that makes sense. The easiest and fastest budgeting app available.
+
 ---
 Other budgeting apps make you think of your life like a business. They want you to track every penny and every category. You waste hours reconciling every minor expense with your checking account every month. This isn't how people operate. Keeping your spending under control need not be a chore.
 
