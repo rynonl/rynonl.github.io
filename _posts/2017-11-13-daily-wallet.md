@@ -1,3 +1,8 @@
+---
+layout: default
+title: DailyWallet
+---
+
 ## DailyWallet
 ---
 Budgeting that makes sense. The easiest and fastest budgeting app available.
